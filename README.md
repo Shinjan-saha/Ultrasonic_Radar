@@ -1,9 +1,13 @@
 # Ultrasonic_Radar
 <img height=220 src="/images/radar input.jpg" alt="radar">
+<br>
+
 
 # Radar_Code 
-### Here the radar code written in Arduino in a ino file.
+
 <img height=180 src="/images/Arduino_snap.png" alt="Arduino ide">
+<br> Here is the radar code written in Arduino file(ino file).
+
 
 # Radar_Output
 Here you can Find the code for showing in output or radar Screen it is written in an processing ide called "processing 4".You need to download it<br>
@@ -15,5 +19,8 @@ Here you can Find the code for showing in output or radar Screen it is written i
 <li>java.io.IOException</li>
   </ul>
 
-### Here is the output Screen Showing Distance & detection of the Object
+# Here is the output Screen Showing Distance & Working Video of the Object
 <img height=220 src="/images/working radar.png" alt="radar screen">
+ <video width="320" height="240" controls>
+            <source src="./images/radar working.mp4" type="video/mp4">
+            </video>
