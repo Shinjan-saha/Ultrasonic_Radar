@@ -21,6 +21,4 @@ Here you can Find the code for showing in output or radar Screen it is written i
 
 # Here is the output Screen Showing Distance & Working Video of the Object
 <img height=220 src="/images/working radar.png" alt="radar screen">
- <video width="320" height="240" controls>
-            <source src="./images/radar working.mp4" type="video/mp4">
-            </video>
+ 
