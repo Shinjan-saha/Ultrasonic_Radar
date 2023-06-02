@@ -2,6 +2,19 @@
 <img height=220 src="/images/radar input.jpg" alt="radar">
 <br>
 
+# Parts Required For Building The Radar:-
+
+<ul>
+  <li>Jumper Wires</li>
+  <li>Breadboard</li>
+  <li>Plane Surface For The Whole Setup(Plywood or Fibre)</li>
+  <li>Servo Motor(9G)</li>
+  <li> Ultrasonic Sensor HSRC90</li>
+  <li>Arduino UNO R3(Main Computing Part of the Radar)</li>
+  <li>Charger(coaxial power connectors) Or Battery (9-12V) </li>
+</ul>
+
+
 
 # Radar_Code 
 
